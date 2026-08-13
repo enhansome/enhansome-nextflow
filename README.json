@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-12T21:07:45Z",
+            "last_commit": "2026-08-13T06:57:01Z",
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 592
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-12T17:54:47Z",
+            "last_commit": "2026-08-13T09:01:57Z",
             "owner": "nf-core",
             "repo": "mag",
             "stars": 313
@@ -1725,7 +1725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-12T19:05:02Z",
+            "last_commit": "2026-08-13T09:33:29Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 424
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:41.341Z",
+    "last_updated": "2026-08-13T10:44:16.875Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
