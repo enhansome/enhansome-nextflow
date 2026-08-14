@@ -132,7 +132,7 @@
             "last_commit": "2026-08-13T09:01:57Z",
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -995,7 +995,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:54:39Z",
+            "last_commit": "2026-08-14T00:53:59Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 110
@@ -1725,7 +1725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-13T09:33:29Z",
+            "last_commit": "2026-08-14T07:16:51Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 424
@@ -1835,7 +1835,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:13:15Z",
+            "last_commit": "2026-08-14T04:51:35Z",
             "owner": "nf-core",
             "repo": "tools",
             "stars": 319
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:44:16.875Z",
+    "last_updated": "2026-08-14T10:39:17.098Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
