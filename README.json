@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-12T16:32:43Z",
+            "last_commit": "2026-08-18T09:32:22Z",
             "owner": "nf-core",
             "repo": "rnaseq",
             "stars": 1350
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-17T09:17:22Z",
+            "last_commit": "2026-08-18T09:04:00Z",
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 593
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-06T14:57:29Z",
+            "last_commit": "2026-08-18T09:24:20Z",
             "owner": "nf-core",
             "repo": "viralrecon",
-            "stars": 167
+            "stars": 165
           }
         },
         {
@@ -891,10 +891,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-06T14:57:29Z",
+            "last_commit": "2026-08-18T09:24:20Z",
             "owner": "nf-core",
             "repo": "viralrecon",
-            "stars": 167
+            "stars": 165
           }
         },
         {
@@ -995,7 +995,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:30:05Z",
+            "last_commit": "2026-08-18T00:29:35Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1725,7 +1725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-08-17T08:24:23Z",
+            "last_commit": "2026-08-18T08:33:55Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 424
@@ -1787,7 +1787,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T04:11:11Z",
+            "last_commit": "2026-08-17T17:03:52Z",
             "owner": "nextflow-io",
             "repo": "vscode-language-nextflow",
             "stars": 38
@@ -1835,7 +1835,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:32:11Z",
+            "last_commit": "2026-08-18T06:44:43Z",
             "owner": "nf-core",
             "repo": "tools",
             "stars": 319
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:15:15.875Z",
+    "last_updated": "2026-08-18T10:03:01.327Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
