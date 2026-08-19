@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97247330,
             "language": "Nextflow",
             "last_commit": "2026-08-02T18:42:08Z",
             "owner": "nextflow-io",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23798783,
             "language": "Nextflow",
             "last_commit": "2021-01-13T12:23:00Z",
             "owner": "nextflow-io",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12301535,
             "language": "Perl",
             "last_commit": "2022-03-15T06:43:47Z",
             "owner": "cbcrg",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 431792366,
             "language": "Nextflow",
             "last_commit": "2021-12-01T10:55:01Z",
             "owner": "nextflow-io",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24052855,
             "language": "C",
             "last_commit": "2018-06-03T11:18:21Z",
             "owner": "cbcrg",
@@ -77,7 +82,7 @@
       "title": "Example pipelines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127293091,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T09:32:22Z",
+            "last_commit": "2026-08-19T08:53:30Z",
             "owner": "nf-core",
             "repo": "rnaseq",
             "stars": 1350
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184289291,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T09:04:00Z",
+            "last_commit": "2026-08-19T07:50:29Z",
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172074074,
             "language": "Nextflow",
             "last_commit": "2026-08-05T14:00:28Z",
             "owner": "bactopia",
@@ -128,8 +136,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134368131,
             "language": "Nextflow",
-            "last_commit": "2026-08-15T13:50:01Z",
+            "last_commit": "2026-08-18T10:48:22Z",
             "owner": "nf-core",
             "repo": "mag",
             "stars": 314
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130877729,
             "language": "Nextflow",
             "last_commit": "2026-07-27T21:13:26Z",
             "owner": "nf-core",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135918251,
             "language": "Nextflow",
             "last_commit": "2026-08-07T08:24:42Z",
             "owner": "nf-core",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124913037,
             "language": "Nextflow",
-            "last_commit": "2026-08-11T06:31:12Z",
+            "last_commit": "2026-08-18T11:29:23Z",
             "owner": "nf-core",
             "repo": "methylseq",
             "stars": 197
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151721952,
             "language": "Nextflow",
             "last_commit": "2026-07-24T14:50:47Z",
             "owner": "nf-core",
@@ -198,8 +211,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251281432,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T09:24:20Z",
+            "last_commit": "2026-08-19T08:29:54Z",
             "owner": "nf-core",
             "repo": "viralrecon",
             "stars": 165
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232394044,
             "language": "Nextflow",
             "last_commit": "2026-08-03T19:01:15Z",
             "owner": "labsyspharm",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83417944,
             "language": "Nextflow",
             "last_commit": "2022-12-14T01:19:04Z",
             "owner": "CRG-CNAG",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61393086,
             "language": "Python",
             "last_commit": "2026-05-04T13:17:35Z",
             "owner": "jdidion",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214224803,
             "language": "Nextflow",
             "last_commit": "2026-06-15T16:32:18Z",
             "owner": "biocorecrg",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311123048,
             "language": "Nextflow",
             "last_commit": "2026-07-27T19:56:41Z",
             "owner": "nf-core",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89316568,
             "language": "Groovy",
             "last_commit": "2024-12-05T22:13:30Z",
             "owner": "open2c",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140590861,
             "language": "Nextflow",
             "last_commit": "2026-07-27T20:16:43Z",
             "owner": "nf-core",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140573587,
             "language": "Nextflow",
             "last_commit": "2026-07-31T09:15:14Z",
             "owner": "nf-core",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89079346,
             "language": "Nextflow",
             "last_commit": "2023-06-05T06:24:17Z",
             "owner": "alesssia",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37532088,
             "language": "R",
             "last_commit": "2022-01-27T07:35:51Z",
             "owner": "IARCbioinfo",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99181521,
             "language": "Nextflow",
             "last_commit": "2026-05-19T23:17:56Z",
             "owner": "montilab",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38367804,
             "language": "Nextflow",
             "last_commit": "2025-12-17T11:42:47Z",
             "owner": "guigolab",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153790052,
             "language": "Nextflow",
             "last_commit": "2026-07-28T13:19:39Z",
             "owner": "nf-core",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200032919,
             "language": "Nextflow",
             "last_commit": "2024-12-05T15:02:15Z",
             "owner": "biocorecrg",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45615708,
             "language": "Nextflow",
             "last_commit": "2018-06-03T11:43:40Z",
             "owner": "cbcrg",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427423773,
             "language": "Nextflow",
             "last_commit": "2024-12-04T09:03:46Z",
             "owner": "biocorecrg",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30362138,
             "language": "Lua",
             "last_commit": "2021-03-22T15:34:47Z",
             "owner": "sanger-pathogens",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209515370,
             "language": "Perl",
             "last_commit": "2022-02-28T14:49:32Z",
             "owner": "guigolab",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9980858,
             "language": "Nextflow",
             "last_commit": "2018-06-03T11:42:05Z",
             "owner": "cbcrg",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66277343,
             "language": "Common Workflow Language",
             "last_commit": "2019-05-20T08:48:00Z",
             "owner": "h3abionet",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50174397,
             "language": "Nextflow",
             "last_commit": "2022-10-06T13:03:53Z",
             "owner": "guigolab",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323397875,
             "language": "Nextflow",
             "last_commit": "2025-04-02T19:15:59Z",
             "owner": "JaneliaSciComp",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 133479899,
             "language": "Nextflow",
             "last_commit": "2020-02-12T16:01:21Z",
             "owner": "nf-core",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138172741,
             "language": "Jupyter Notebook",
             "last_commit": "2019-01-18T21:43:27Z",
             "owner": "NCBI-Hackathons",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99763100,
             "language": "Perl",
             "last_commit": "2018-02-19T00:31:29Z",
             "owner": "robsyme",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157909823,
             "language": "Python",
             "last_commit": "2020-11-12T16:59:33Z",
             "owner": "brwnj",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159453415,
             "language": "Nextflow",
             "last_commit": "2026-04-06T04:25:44Z",
             "owner": "Dowell-Lab",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161704567,
             "language": "WDL",
             "last_commit": "2026-01-21T16:03:49Z",
             "owner": "FredHutch",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137067241,
             "language": "Nextflow",
             "last_commit": "2019-04-03T07:15:44Z",
             "owner": "IARCbioinfo",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28057906,
             "language": null,
             "last_commit": "2015-05-26T16:45:44Z",
             "owner": "nmdp-bioinformatics",
@@ -632,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238708153,
             "language": "Nextflow",
             "last_commit": "2025-05-26T08:56:36Z",
             "owner": "biocorecrg",
@@ -646,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87790354,
             "language": "Perl",
             "last_commit": "2019-07-19T15:05:13Z",
             "owner": "guigolab",
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135589991,
             "language": "Nextflow",
             "last_commit": "2019-12-19T07:38:47Z",
             "owner": "IARCbioinfo",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151649674,
             "language": "R",
             "last_commit": "2024-06-03T17:33:16Z",
             "owner": "AndersenLab",
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177179477,
             "language": "Nextflow",
             "last_commit": "2026-02-19T23:05:45Z",
             "owner": "Dowell-Lab",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122631917,
             "language": "Nextflow",
             "last_commit": "2019-12-12T15:04:47Z",
             "owner": "biocorecrg",
@@ -716,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57054562,
             "language": "Perl",
             "last_commit": "2018-06-03T11:37:28Z",
             "owner": "cbcrg",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144697659,
             "language": "Nextflow",
             "last_commit": "2021-08-19T10:12:55Z",
             "owner": "biocorecrg",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177208059,
             "language": "Nextflow",
             "last_commit": "2023-08-07T20:47:38Z",
             "owner": "Dowell-Lab",
@@ -758,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37199412,
             "language": "Python",
             "last_commit": "2018-08-24T08:41:40Z",
             "owner": "metagenomics",
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97622975,
             "language": "Perl",
             "last_commit": "2018-08-26T16:53:46Z",
             "owner": "anvlasova",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171497634,
             "language": "Nextflow",
             "last_commit": "2023-10-05T09:55:00Z",
             "owner": "biocorecrg",
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148783346,
             "language": "Nextflow",
             "last_commit": "2018-09-14T12:22:19Z",
             "owner": "crickbabs",
@@ -814,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142166753,
             "language": "Nextflow",
             "last_commit": "2018-08-14T11:39:11Z",
             "owner": "qbic-pipelines",
@@ -828,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130660859,
             "language": "Nextflow",
             "last_commit": "2026-03-30T14:08:24Z",
             "owner": "ZuberLab",
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105032811,
             "language": "R",
             "last_commit": "2018-04-23T08:08:54Z",
             "owner": "ZuberLab",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137119457,
             "language": "Nextflow",
             "last_commit": "2019-05-28T23:32:17Z",
             "owner": "ncsa",
@@ -870,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 399947452,
             "language": "Nextflow",
             "last_commit": "2021-08-25T21:06:15Z",
             "owner": "icgc-argo",
@@ -881,7 +943,7 @@
       "title": "Featured pipelines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -890,8 +952,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251281432,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T09:24:20Z",
+            "last_commit": "2026-08-19T08:29:54Z",
             "owner": "nf-core",
             "repo": "viralrecon",
             "stars": 165
@@ -904,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214224803,
             "language": "Nextflow",
             "last_commit": "2026-06-15T16:32:18Z",
             "owner": "biocorecrg",
@@ -918,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246376094,
             "language": "Nextflow",
             "last_commit": "2023-11-08T09:21:28Z",
             "owner": "connor-lab",
@@ -932,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246550202,
             "language": "Python",
             "last_commit": "2020-06-04T10:35:14Z",
             "owner": "BU-ISCIII",
@@ -946,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212849477,
             "language": "Python",
             "last_commit": "2020-05-19T02:31:54Z",
             "owner": "jnoms",
@@ -960,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251503747,
             "language": "Nextflow",
             "last_commit": "2021-09-21T16:24:46Z",
             "owner": "heuermh",
@@ -971,7 +1039,7 @@
       "title": "Covid-19 related projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -980,6 +1048,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66284716,
             "language": "Nextflow",
             "last_commit": "2026-03-12T13:41:28Z",
             "owner": "h3abionet",
@@ -994,8 +1063,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-18T00:29:35Z",
+            "last_commit": "2026-08-19T00:29:57Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1008,6 +1078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463211522,
             "language": "Nextflow",
             "last_commit": "2026-07-23T09:13:57Z",
             "owner": "CDCgov",
@@ -1022,6 +1093,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38045267,
             "language": "Python",
             "last_commit": "2020-06-17T14:27:24Z",
             "owner": "chrisquince",
@@ -1036,6 +1108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97653665,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-04T15:16:52Z",
             "owner": "Wittelab",
@@ -1050,6 +1123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66281700,
             "language": "Nextflow",
             "last_commit": "2024-11-05T12:20:17Z",
             "owner": "h3abionet",
@@ -1064,6 +1138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24693573,
             "language": "Perl",
             "last_commit": "2023-06-30T05:37:32Z",
             "owner": "robsyme",
@@ -1078,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60093354,
             "language": "Nextflow",
             "last_commit": "2019-04-04T09:45:04Z",
             "owner": "NBISweden",
@@ -1092,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495350834,
             "language": "Python",
             "last_commit": "2026-03-04T08:33:27Z",
             "owner": "MHH-RCUG",
@@ -1106,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60263791,
             "language": "Python",
             "last_commit": "2018-08-20T13:17:17Z",
             "owner": "NationalGenomicsInfrastructure",
@@ -1120,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58171747,
             "language": "Python",
             "last_commit": "2022-07-15T06:28:16Z",
             "owner": "cerebis",
@@ -1134,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53415340,
             "language": "Nextflow",
             "last_commit": "2018-04-02T17:39:19Z",
             "owner": "evanfloden",
@@ -1148,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80036329,
             "language": "Nextflow",
             "last_commit": "2019-09-04T02:35:00Z",
             "owner": "joshua-d-campbell",
@@ -1162,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69949705,
             "language": "Nextflow",
             "last_commit": "2018-04-02T18:00:39Z",
             "owner": "evanfloden",
@@ -1176,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53573670,
             "language": "Nextflow",
             "last_commit": "2025-09-22T07:46:29Z",
             "owner": "IARCbioinfo",
@@ -1190,6 +1273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61765462,
             "language": "Nextflow",
             "last_commit": "2019-01-16T07:37:26Z",
             "owner": "hmkim",
@@ -1204,6 +1288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27771459,
             "language": null,
             "last_commit": "2014-12-09T14:57:49Z",
             "owner": "charite",
@@ -1218,6 +1303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57042719,
             "language": "Perl",
             "last_commit": "2018-04-02T17:50:05Z",
             "owner": "evanfloden",
@@ -1232,6 +1318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57216591,
             "language": "Nextflow",
             "last_commit": "2018-08-10T08:40:22Z",
             "owner": "evanfloden",
@@ -1246,6 +1333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32928200,
             "language": "Groovy",
             "last_commit": "2015-03-26T09:04:08Z",
             "owner": "holtgrewe",
@@ -1260,6 +1348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73915148,
             "language": "Nextflow",
             "last_commit": "2019-03-05T05:44:47Z",
             "owner": "pbelmann",
@@ -1274,6 +1363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66799341,
             "language": "Jupyter Notebook",
             "last_commit": "2016-09-08T10:19:15Z",
             "owner": "PlantandFoodResearch",
@@ -1288,6 +1378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429477950,
             "language": "Nextflow",
             "last_commit": "2022-01-18T15:19:08Z",
             "owner": "CDCgov",
@@ -1302,6 +1393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39405888,
             "language": null,
             "last_commit": "2015-07-23T04:51:52Z",
             "owner": "AveraSD",
@@ -1316,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63858666,
             "language": "HTML",
             "last_commit": "2018-04-02T17:39:05Z",
             "owner": "evanfloden",
@@ -1330,6 +1423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56405760,
             "language": "Nextflow",
             "last_commit": "2019-08-02T09:30:55Z",
             "owner": "fredericlemoine",
@@ -1344,6 +1438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53955788,
             "language": null,
             "last_commit": "2016-11-22T15:38:39Z",
             "owner": "IARCbioinfo",
@@ -1358,6 +1453,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55162568,
             "language": "R",
             "last_commit": "2020-06-17T18:43:56Z",
             "owner": "jdidion",
@@ -1372,6 +1468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68005480,
             "language": "Shell",
             "last_commit": "2017-05-17T14:32:12Z",
             "owner": "abreschi",
@@ -1386,6 +1483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37084662,
             "language": null,
             "last_commit": "2015-06-18T16:38:23Z",
             "owner": "andremrsantos",
@@ -1400,6 +1498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39223385,
             "language": null,
             "last_commit": "2015-07-22T20:55:49Z",
             "owner": "AveraSD",
@@ -1414,6 +1513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10937598,
             "language": "Shell",
             "last_commit": "2018-02-08T15:04:46Z",
             "owner": "cbcrg",
@@ -1428,6 +1528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41800285,
             "language": null,
             "last_commit": "2015-12-17T12:22:06Z",
             "owner": "InSilicoDB",
@@ -1442,6 +1543,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104775578,
             "language": "Python",
             "last_commit": "2018-02-04T00:15:47Z",
             "owner": "ODiogoSilva",
@@ -1456,6 +1558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10996757,
             "language": "Shell",
             "last_commit": "2018-06-03T11:06:36Z",
             "owner": "cbcrg",
@@ -1470,6 +1573,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45903019,
             "language": null,
             "last_commit": "2017-01-03T08:44:06Z",
             "owner": "HadrienG",
@@ -1484,6 +1588,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39528977,
             "language": null,
             "last_commit": "2015-07-22T22:27:09Z",
             "owner": "meissnert",
@@ -1498,6 +1603,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36526754,
             "language": null,
             "last_commit": "2015-07-13T16:45:46Z",
             "owner": "nmdp-bioinformatics",
@@ -1512,6 +1618,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27136597,
             "language": null,
             "last_commit": "2014-12-03T20:01:18Z",
             "owner": "robsyme",
@@ -1526,6 +1633,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31309536,
             "language": null,
             "last_commit": "2015-03-24T15:37:22Z",
             "owner": "skner",
@@ -1540,6 +1648,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54107259,
             "language": null,
             "last_commit": "2016-03-23T15:44:32Z",
             "owner": "IARCbioinfo",
@@ -1554,6 +1663,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76868753,
             "language": "Shell",
             "last_commit": "2017-03-07T13:30:21Z",
             "owner": "IARCbioinfo",
@@ -1568,6 +1678,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74483459,
             "language": "Perl",
             "last_commit": "2018-01-24T07:27:47Z",
             "owner": "IARCbioinfo",
@@ -1582,6 +1693,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56070799,
             "language": null,
             "last_commit": "2016-04-14T13:53:40Z",
             "owner": "InSilicoDB",
@@ -1596,30 +1708,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54127344,
             "language": null,
             "last_commit": "2016-04-04T17:29:48Z",
             "owner": "nmdp-bioinformatics",
             "repo": "flow-blast-hml",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "robsyme/nextflow-mapping",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "snewhouse/ngs_nextflow",
-          "description": "Alignment, Variant Calling, GATK Best Practices.",
-          "children": []
         }
       ],
       "title": "Other pipelines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1628,6 +1729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30353639,
             "language": "Nextflow",
             "last_commit": "2023-11-21T15:44:47Z",
             "owner": "nextflow-io",
@@ -1642,6 +1744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128070143,
             "language": "Nextflow",
             "last_commit": "2026-05-20T14:19:34Z",
             "owner": "stevekm",
@@ -1656,6 +1759,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100017737,
             "language": "Nextflow",
             "last_commit": "2018-06-17T14:38:59Z",
             "owner": "nextflow-io",
@@ -1670,6 +1774,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71648453,
             "language": null,
             "last_commit": "2017-10-24T11:23:16Z",
             "owner": "nextflow-io",
@@ -1684,6 +1789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75569647,
             "language": "Nextflow",
             "last_commit": "2023-05-29T14:04:34Z",
             "owner": "shaze",
@@ -1698,24 +1804,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940961388,
             "language": null,
             "last_commit": "2025-03-07T07:05:31Z",
             "owner": "vagkaratzas",
             "repo": "nextflow-beginners-workshop",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "nf-core Pre-Hackathon Training 2025",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1724,8 +1825,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T08:33:55Z",
+            "last_commit": "2026-08-19T09:49:11Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 424
@@ -1738,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200849540,
             "language": "Nextflow",
             "last_commit": "2024-10-25T06:28:21Z",
             "owner": "UMCUGenetics",
@@ -1752,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125847619,
             "language": "Nextflow",
             "last_commit": "2026-02-13T09:52:21Z",
             "owner": "biocorecrg",
@@ -1763,7 +1867,7 @@
       "title": "Modules collections"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1772,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162446231,
             "language": "Vim script",
             "last_commit": "2023-05-27T09:19:40Z",
             "owner": "LukeGoodsell",
@@ -1786,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119595532,
             "language": "TypeScript",
             "last_commit": "2026-08-17T17:03:52Z",
             "owner": "nextflow-io",
@@ -1800,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184515445,
             "language": "Emacs Lisp",
             "last_commit": "2026-08-04T23:32:10Z",
             "owner": "edmundmiller",
@@ -1814,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178066360,
             "language": "Python",
             "last_commit": "2025-01-08T02:52:46Z",
             "owner": "peterk87",
@@ -1825,7 +1933,7 @@
       "title": "Syntax highlighting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1834,8 +1942,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121360155,
             "language": "Python",
-            "last_commit": "2026-08-18T06:44:43Z",
+            "last_commit": "2026-08-19T09:28:57Z",
             "owner": "nf-core",
             "repo": "tools",
             "stars": 319
@@ -1848,6 +1957,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103176143,
             "language": "Python",
             "last_commit": "2017-09-29T17:39:31Z",
             "owner": "NCBI-Hackathons",
@@ -1862,6 +1972,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 96760893,
             "language": "Shell",
             "last_commit": "2017-09-28T15:05:09Z",
             "owner": "nextflow-io",
@@ -1876,6 +1987,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39565169,
             "language": "XSLT",
             "last_commit": "2019-09-05T18:45:07Z",
             "owner": "lindenb",
@@ -1888,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:03:01.327Z",
+    "last_updated": "2026-08-19T10:03:33.206Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
