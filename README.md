@@ -13,7 +13,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 ## Featured pipelines
 
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) ⭐ 1,350 | 🐛 35 | 🌐 Nextflow | 📅 2026-08-19 - RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control.
-* [nf-core/sarek](https://github.com/nf-core/sarek) ⭐ 594 | 🐛 292 | 🌐 Nextflow | 📅 2026-08-19 - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
+* [nf-core/sarek](https://github.com/nf-core/sarek) ⭐ 594 | 🐛 293 | 🌐 Nextflow | 📅 2026-08-19 - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
 * [bactopia/bactopia](https://github.com/bactopia/bactopia) ⭐ 522 | 🐛 63 | 🌐 Nextflow | 📅 2026-08-05 - A flexible pipeline for complete analysis of bacterial genomes.
 * [nf-core/mag](https://github.com/nf-core/mag) ⭐ 314 | 🐛 82 | 🌐 Nextflow | 📅 2026-08-18 - Assembly and binning of metagenomes.
 * [nf-core/chipseq](https://github.com/nf-core/chipseq) ⭐ 242 | 🐛 20 | 🌐 Nextflow | 📅 2026-07-27 - Chromatin immunoprecipitation (ChIP-seq) peak-calling, QC and differential analysis pipeline.
@@ -162,7 +162,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Modules collections
 
-* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 424 | 🐛 520 | 🌐 Nextflow | 📅 2026-08-19 - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 424 | 🐛 521 | 🌐 Nextflow | 📅 2026-08-19 - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) ⭐ 30 | 🐛 2 | 🌐 Nextflow | 📅 2024-10-25 - UMCU Genetics Nextflow modules
 * [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) ⭐ 29 | 🐛 7 | 🌐 Nextflow | 📅 2026-02-13 - Repository to host DSL2 based tool-specific sub-workflows
 
