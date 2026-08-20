@@ -93,7 +93,7 @@
             "archived": false,
             "id": 127293091,
             "language": "Nextflow",
-            "last_commit": "2026-08-19T11:02:47Z",
+            "last_commit": "2026-08-19T14:50:00Z",
             "owner": "nf-core",
             "repo": "rnaseq",
             "stars": 1350
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 184289291,
             "language": "Nextflow",
-            "last_commit": "2026-08-19T07:50:29Z",
+            "last_commit": "2026-08-20T09:32:07Z",
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 594
+            "stars": 593
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T10:48:22Z",
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-07T08:24:42Z",
             "owner": "nf-core",
             "repo": "eager",
-            "stars": 214
+            "stars": 213
           }
         },
         {
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 140573587,
             "language": "Nextflow",
-            "last_commit": "2026-07-31T09:15:14Z",
+            "last_commit": "2026-08-20T08:03:31Z",
             "owner": "nf-core",
             "repo": "hlatyping",
             "stars": 81
@@ -1053,7 +1053,7 @@
             "last_commit": "2026-03-12T13:41:28Z",
             "owner": "h3abionet",
             "repo": "h3agwas",
-            "stars": 116
+            "stars": 115
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "archived": false,
             "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-19T00:29:57Z",
+            "last_commit": "2026-08-20T00:30:10Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-19T12:30:43Z",
+            "last_commit": "2026-08-20T09:46:39Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 424
@@ -1944,7 +1944,7 @@
             "archived": false,
             "id": 121360155,
             "language": "Python",
-            "last_commit": "2026-08-19T09:28:57Z",
+            "last_commit": "2026-08-20T05:58:45Z",
             "owner": "nf-core",
             "repo": "tools",
             "stars": 319
@@ -2000,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:27.694Z",
+    "last_updated": "2026-08-20T10:05:10.520Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_id": 39799927,
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
