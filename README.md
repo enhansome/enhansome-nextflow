@@ -1,6 +1,6 @@
 # Awesome Nextflow with stars
 
-A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,621 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 lists.
+A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 lists.
 
 ## Example pipelines
 
@@ -13,9 +13,9 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 ## Featured pipelines
 
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) ⭐ 1,356 | 🐛 34 | 🌐 Nextflow | 📅 2026-08-22 - RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control.
-* [nf-core/sarek](https://github.com/nf-core/sarek) ⭐ 594 | 🐛 294 | 🌐 Nextflow | 📅 2026-08-21 - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
-* [bactopia/bactopia](https://github.com/bactopia/bactopia) ⭐ 522 | 🐛 63 | 🌐 Nextflow | 📅 2026-08-05 - A flexible pipeline for complete analysis of bacterial genomes.
-* [nf-core/mag](https://github.com/nf-core/mag) ⭐ 316 | 🐛 82 | 🌐 Nextflow | 📅 2026-08-18 - Assembly and binning of metagenomes.
+* [nf-core/sarek](https://github.com/nf-core/sarek) ⭐ 594 | 🐛 292 | 🌐 Nextflow | 📅 2026-08-24 - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
+* [bactopia/bactopia](https://github.com/bactopia/bactopia) ⭐ 522 | 🐛 64 | 🌐 Nextflow | 📅 2026-08-05 - A flexible pipeline for complete analysis of bacterial genomes.
+* [nf-core/mag](https://github.com/nf-core/mag) ⭐ 316 | 🐛 82 | 🌐 Nextflow | 📅 2026-08-24 - Assembly and binning of metagenomes.
 * [nf-core/chipseq](https://github.com/nf-core/chipseq) ⭐ 242 | 🐛 19 | 🌐 Nextflow | 📅 2026-08-21 - Chromatin immunoprecipitation (ChIP-seq) peak-calling, QC and differential analysis pipeline.
 * [nf-core/eager](https://github.com/nf-core/eager) ⭐ 213 | 🐛 57 | 🌐 Nextflow | 📅 2026-08-07 - A fully reproducible and state of the art ancient DNA analysis pipeline.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) ⭐ 197 | 🐛 31 | 🌐 Nextflow | 📅 2026-08-18 - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
@@ -162,7 +162,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Modules collections
 
-* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 425 | 🐛 500 | 🌐 Nextflow | 📅 2026-08-24 - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 425 | 🐛 498 | 🌐 Nextflow | 📅 2026-08-24 - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) ⭐ 30 | 🐛 2 | 🌐 Nextflow | 📅 2024-10-25 - UMCU Genetics Nextflow modules
 * [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) ⭐ 29 | 🐛 7 | 🌐 Nextflow | 📅 2026-02-13 - Repository to host DSL2 based tool-specific sub-workflows
 
@@ -188,7 +188,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Other links
 
-* [nf-core/tools](https://github.com/nf-core/tools) ⭐ 319 | 🐛 422 | 🌐 Python | 📅 2026-08-24 - Helper tools for the nf-core community, linting, template...
+* [nf-core/tools](https://github.com/nf-core/tools) ⭐ 319 | 🐛 423 | 🌐 Python | 📅 2026-08-24 - Helper tools for the nf-core community, linting, template...
 * [NCBI-Hackathons/SPeW](https://github.com/NCBI-Hackathons/SPeW) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2017-09-29 - A discussion comparting different workflow frameworks including Nextflow.
 * [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) ⚠️ Archived - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) ⭐ 5 | 🐛 0 | 🌐 XSLT | 📅 2019-09-05 - Converts Makefile to Nextflow
