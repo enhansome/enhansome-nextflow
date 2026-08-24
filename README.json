@@ -96,7 +96,7 @@
             "last_commit": "2026-08-22T17:59:14Z",
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1355
+            "stars": 1356
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "archived": false,
             "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-23T00:32:29Z",
+            "last_commit": "2026-08-24T00:31:51Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-21T14:47:18Z",
+            "last_commit": "2026-08-24T08:28:53Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 425
@@ -1944,7 +1944,7 @@
             "archived": false,
             "id": 121360155,
             "language": "Python",
-            "last_commit": "2026-08-21T04:36:13Z",
+            "last_commit": "2026-08-24T03:56:50Z",
             "owner": "nf-core",
             "repo": "tools",
             "stars": 319
@@ -2000,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:59:22.049Z",
+    "last_updated": "2026-08-24T10:21:40.863Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_id": 39799927,
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
