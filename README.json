@@ -96,7 +96,7 @@
             "last_commit": "2026-08-22T17:59:14Z",
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1356
+            "stars": 1357
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 184289291,
             "language": "Nextflow",
-            "last_commit": "2026-08-24T13:29:03Z",
+            "last_commit": "2026-08-24T14:49:16Z",
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 594
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 134368131,
             "language": "Nextflow",
-            "last_commit": "2026-08-24T12:11:29Z",
+            "last_commit": "2026-08-24T14:52:24Z",
             "owner": "nf-core",
             "repo": "mag",
             "stars": 316
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-03T19:01:15Z",
             "owner": "labsyspharm",
             "repo": "mcmicro",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "archived": false,
             "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-24T00:31:51Z",
+            "last_commit": "2026-08-25T00:31:18Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-24T13:57:04Z",
+            "last_commit": "2026-08-25T06:11:33Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 425
@@ -2000,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:02.960Z",
+    "last_updated": "2026-08-25T06:13:39.740Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_id": 39799927,
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
