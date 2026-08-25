@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-25T06:11:33Z",
+            "last_commit": "2026-08-25T10:05:28Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 425
@@ -2000,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:39.740Z",
+    "last_updated": "2026-08-25T10:06:04.794Z",
     "original_repository": "nextflow-io/awesome-nextflow",
     "original_repository_id": 39799927,
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
