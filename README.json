@@ -93,10 +93,10 @@
             "archived": false,
             "id": 127293091,
             "language": "Nextflow",
-            "last_commit": "2026-08-22T17:59:14Z",
+            "last_commit": "2026-08-26T17:25:09Z",
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 184289291,
             "language": "Nextflow",
-            "last_commit": "2026-08-25T18:47:27Z",
+            "last_commit": "2026-08-26T19:53:32Z",
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 594
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T14:52:24Z",
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "archived": false,
             "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-26T00:32:21Z",
+            "last_commit": "2026-08-27T05:23:50Z",
             "owner": "CDCgov",
             "repo": "phoenix",
             "stars": 111
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-26T09:47:03Z",
+            "last_commit": "2026-08-27T10:13:45Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 425
@@ -2000,9 +2000,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:17:27.693Z",
-    "original_repository": "nextflow-io/awesome-nextflow",
-    "original_repository_id": 39799927,
+    "last_updated": "2026-08-27T11:56:31.002Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 39799927,
+      "language": null,
+      "last_commit": "2025-06-23T07:41:58Z",
+      "owner": "nextflow-io",
+      "repo": "awesome-nextflow",
+      "stars": 631
+    },
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
     "enhanced_repository_description": null,
