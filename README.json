@@ -93,7 +93,7 @@
             "archived": false,
             "id": 127293091,
             "language": "Nextflow",
-            "last_commit": "2026-08-26T17:25:09Z",
+            "last_commit": "2026-08-27T17:28:11Z",
             "owner": "nf-core",
             "repo": "rnaseq",
             "stars": 1358
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 184289291,
             "language": "Nextflow",
-            "last_commit": "2026-08-26T19:53:32Z",
+            "last_commit": "2026-08-27T19:25:46Z",
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 594
+            "stars": 595
           }
         },
         {
@@ -1827,7 +1827,7 @@
             "archived": false,
             "id": 198982083,
             "language": "Nextflow",
-            "last_commit": "2026-08-27T10:13:45Z",
+            "last_commit": "2026-08-27T17:58:04Z",
             "owner": "nf-core",
             "repo": "modules",
             "stars": 425
@@ -2000,7 +2000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:31.002Z",
+    "last_updated": "2026-08-27T19:59:52.274Z",
     "original_repository_info": {
       "archived": false,
       "id": 39799927,
