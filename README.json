@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proof of concept of RNAseq pipeline",
+            "homepage": null,
             "id": 97247330,
             "language": "Nextflow",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T18:42:08Z",
+            "open_issues": 6,
             "owner": "nextflow-io",
             "repo": "rnaseq-nf",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "genomics",
+              "nextflow",
+              "rnaseq"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -26,12 +35,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A proof of concept RNA-Seq pipeline with Nextflow",
+            "homepage": null,
             "id": 23798783,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2021-01-13T12:23:00Z",
+            "open_issues": 1,
             "owner": "nextflow-io",
             "repo": "rnatoy",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "docker",
+              "nextflow",
+              "rna-seq",
+              "rnaseq"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -42,12 +61,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast automated prediction of protein antimicrobial regions",
+            "homepage": "tcoffee.crg.cat/apps/ampa/",
             "id": 12301535,
             "language": "Perl",
+            "license": null,
             "last_commit": "2022-03-15T06:43:47Z",
+            "open_issues": 0,
             "owner": "cbcrg",
             "repo": "ampa-nf",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "nextflow",
+              "pipeline",
+              "protein-antimicrobial-regions"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Nextflow workflow workshop 2021",
+            "homepage": "https://nextflow-io.github.io/elixir-workshop-21/docs/",
             "id": 431792366,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-01T10:55:01Z",
+            "open_issues": 0,
             "owner": "nextflow-io",
             "repo": "elixir-workshop-21",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -74,12 +107,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Method for best alignment of evaluation trees",
+            "homepage": null,
             "id": 24052855,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2018-06-03T11:18:21Z",
+            "open_issues": 0,
             "owner": "cbcrg",
             "repo": "mta-nf",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -96,12 +137,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
+            "homepage": "https://nf-co.re/rnaseq",
             "id": 127293091,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:28:11Z",
+            "open_issues": 31,
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1358
+            "stars": 1358,
+            "topics": [
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "rna",
+              "rna-seq",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -112,12 +165,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing",
+            "homepage": "https://nf-co.re/sarek",
             "id": 184289291,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:49:30Z",
+            "open_issues": 294,
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "annotation",
+              "bioinformatics",
+              "cancer",
+              "conda",
+              "containers",
+              "gatk4",
+              "genomics",
+              "germline",
+              "next-generation-sequencing",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "pre-processing",
+              "reproducible-research",
+              "somatic",
+              "target-panels",
+              "variant-calling",
+              "whole-exome-sequencing",
+              "whole-genome-sequencing",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -128,12 +207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible pipeline for complete analysis of bacterial genomes",
+            "homepage": "https://bactopia.io",
             "id": 172074074,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-05T14:00:28Z",
+            "open_issues": 64,
             "owner": "bactopia",
             "repo": "bactopia",
-            "stars": 522
+            "stars": 522,
+            "topics": [
+              "bacterial-genomes",
+              "bioconda",
+              "conda",
+              "fastqs",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -144,12 +234,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assembly and binning of metagenomes",
+            "homepage": "https://nf-co.re/mag",
             "id": 134368131,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:52:24Z",
+            "open_issues": 81,
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "annotation",
+              "assembly",
+              "binning",
+              "bioinformatics",
+              "long-read-sequencing",
+              "metagenomes",
+              "metagenomics",
+              "nanopore",
+              "nanopore-sequencing",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -160,12 +269,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChIP-seq peak-calling, QC and differential analysis pipeline.",
+            "homepage": "https://nf-co.re/chipseq",
             "id": 130877729,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-21T06:47:40Z",
+            "open_issues": 19,
             "owner": "nf-core",
             "repo": "chipseq",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "chip",
+              "chip-seq",
+              "chromatin-immunoprecipitation",
+              "macs2",
+              "nextflow",
+              "nf-core",
+              "peak-calling",
+              "pipeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -176,12 +300,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully reproducible and state-of-the-art ancient DNA analysis pipeline",
+            "homepage": "https://nf-co.re/eager",
             "id": 135918251,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:16:39Z",
+            "open_issues": 57,
             "owner": "nf-core",
             "repo": "eager",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "adna",
+              "ancient-dna-analysis",
+              "ancientdna",
+              "bioinformatics",
+              "genome",
+              "metagenomics",
+              "nextflow",
+              "nf-core",
+              "pathogen-genomics",
+              "pipeline",
+              "population-genetics",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -192,12 +334,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark/bwa-meth + MethylDackel or bwa-mem + rastair",
+            "homepage": "https://nf-co.re/methylseq",
             "id": 124913037,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-18T11:29:23Z",
+            "open_issues": 31,
             "owner": "nf-core",
             "repo": "methylseq",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "bisulfite-sequencing",
+              "dna-methylation",
+              "em-seq",
+              "epigenome",
+              "epigenomics",
+              "methyl-seq",
+              "nextflow",
+              "nf-core",
+              "pbat",
+              "pipeline",
+              "rastair",
+              "rrbs",
+              "taps",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -208,12 +370,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA-seq analysis pipeline for detection of gene-fusions",
+            "homepage": "https://nf-co.re/rnafusion",
             "id": 151721952,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-07-24T14:50:47Z",
+            "open_issues": 27,
             "owner": "nf-core",
             "repo": "rnafusion",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "fusion",
+              "fusion-genes",
+              "gene-fusion",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "rna",
+              "rna-seq",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -224,12 +401,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assembly and intrahost/low-frequency variant calling for viral samples",
+            "homepage": "https://nf-co.re/viralrecon",
             "id": 251281432,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:40:30Z",
+            "open_issues": 61,
             "owner": "nf-core",
             "repo": "viralrecon",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "amplicon",
+              "artic",
+              "assembly",
+              "covid-19",
+              "covid19",
+              "illumina",
+              "long-read-sequencing",
+              "metagenomics",
+              "nanopore",
+              "nextflow",
+              "nf-core",
+              "ont",
+              "oxford-nanopore",
+              "pipeline",
+              "sars-cov-2",
+              "variant-calling",
+              "viral",
+              "virus",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -240,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiple-choice microscopy pipeline",
+            "homepage": "https://mcmicro.org/",
             "id": 232394044,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-03T19:01:15Z",
+            "open_issues": 66,
             "owner": "labsyspharm",
             "repo": "mcmicro",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -256,12 +463,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GATK RNA-Seq Variant Calling in Nextflow",
+            "homepage": null,
             "id": 83417944,
             "language": "Nextflow",
+            "license": "MPL-2.0",
             "last_commit": "2022-12-14T01:19:04Z",
+            "open_issues": 13,
             "owner": "CRG-CNAG",
             "repo": "CalliNGS-NF",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "bioinformatics",
+              "gatk",
+              "genomics",
+              "nextflow",
+              "ngs",
+              "rna-seq",
+              "variant-calling"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -272,12 +492,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An NGS read trimming tool that is specific, sensitive, and speedy. (production)",
+            "homepage": null,
             "id": 61393086,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-04T13:17:35Z",
+            "open_issues": 19,
             "owner": "jdidion",
             "repo": "atropos",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "bioinformatics",
+              "ngs",
+              "python3",
+              "trimming"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -288,12 +518,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Nextflow pipeline for analysis of direct RNA Nanopore reads",
+            "homepage": "https://biocorecrg.github.io/master_of_pores/MOP4_1",
             "id": 214224803,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-06-15T16:32:18Z",
+            "open_issues": 7,
             "owner": "biocorecrg",
             "repo": "master_of_pores",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "docker",
+              "nanopore-analysis-pipeline",
+              "nanopore-sequencing",
+              "nextflow",
+              "nextflow-pipeline",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -304,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Renders a collection of sequences into a pangenome graph. https://doi.org/10.1093/bioinformatics/btae609.",
+            "homepage": "https://nf-co.re/pangenome",
             "id": 311123048,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-07-27T19:56:41Z",
+            "open_issues": 18,
             "owner": "nf-core",
             "repo": "pangenome",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "nextflow",
+              "nf-core",
+              "pangenome",
+              "pipeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -320,12 +573,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular Hi-C mapping pipeline",
+            "homepage": null,
             "id": 89316568,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2024-12-05T22:13:30Z",
+            "open_issues": 68,
             "owner": "open2c",
             "repo": "distiller-nf",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "hi-c",
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -336,12 +598,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small-RNA sequencing analysis pipeline",
+            "homepage": "https://nf-co.re/smrnaseq",
             "id": 140590861,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-07-27T20:16:43Z",
+            "open_issues": 23,
             "owner": "nf-core",
             "repo": "smrnaseq",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "small-rna",
+              "smrna-seq",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -352,12 +626,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Precision HLA typing from next-generation sequencing data",
+            "homepage": "https://nf-co.re/hlatyping",
             "id": 140573587,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-20T08:03:31Z",
+            "open_issues": 13,
             "owner": "nf-core",
             "repo": "hlatyping",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "dna",
+              "hla",
+              "hla-typing",
+              "immunology",
+              "nextflow",
+              "nf-core",
+              "optitype",
+              "personalized-medicine",
+              "pipeline",
+              "rna",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -368,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YAMP: Yet Another Metagenomic Pipeline",
+            "homepage": null,
             "id": 89079346,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-05T06:24:17Z",
+            "open_issues": 9,
             "owner": "alesssia",
             "repo": "YAMP",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -384,12 +680,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-sample somatic variant caller",
+            "homepage": null,
             "id": 37532088,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-27T07:35:51Z",
+            "open_issues": 12,
             "owner": "IARCbioinfo",
             "repo": "needlestack",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "bam-files",
+              "docker",
+              "negative-binomial-regression",
+              "nextflow",
+              "ngs",
+              "pipeline",
+              "regression",
+              "samtools",
+              "somatic-mutations",
+              "variants"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -400,12 +712,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible Nextflow-based framework for the definition of sequencing data processing pipelines",
+            "homepage": null,
             "id": 99181521,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-19T23:17:56Z",
+            "open_issues": 3,
             "owner": "montilab",
             "repo": "pipeliner",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "bioinformatics",
+              "computational-biology",
+              "nextflow",
+              "rna-seq",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -416,12 +739,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automated RNA-seq pipeline using Nextflow",
+            "homepage": null,
             "id": 38367804,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-17T11:42:47Z",
+            "open_issues": 32,
             "owner": "guigolab",
             "repo": "grape-nf",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "crg",
+              "guigo",
+              "nextflow",
+              "ngs",
+              "pipeline",
+              "rna-seq"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -432,12 +767,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UNDER DEVELOPMENT--- Analysis of long non-coding RNAs from RNA-seq datasets",
+            "homepage": "https://nf-co.re/lncpipe",
             "id": 153790052,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-07-28T13:19:39Z",
+            "open_issues": 22,
             "owner": "nf-core",
             "repo": "lncpipe",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "differential-expression",
+              "lncrna",
+              "long-non-coding",
+              "nextflow",
+              "nf-core",
+              "non-coding",
+              "pipeline",
+              "rna",
+              "rna-seq-analysis",
+              "transcriptome",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -448,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ExOrthist: a pipeline to extract exon orthologies at any evolutionary distance.",
+            "homepage": null,
             "id": 200032919,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2024-12-05T15:02:15Z",
+            "open_issues": 5,
             "owner": "biocorecrg",
             "repo": "ExOrthist",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -464,12 +821,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nextflow implementation of Kallisto & Sleuth RNA-Seq Tools",
+            "homepage": null,
             "id": 45615708,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2018-06-03T11:43:40Z",
+            "open_issues": 3,
             "owner": "cbcrg",
             "repo": "kallisto-nf",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "kallisto",
+              "nextflow",
+              "pipeline",
+              "sleuth-rna-seq"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -480,12 +847,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master of Pores 2",
+            "homepage": "https://biocorecrg.github.io/MOP2/docs/",
             "id": 427423773,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2024-12-04T09:03:46Z",
+            "open_issues": 21,
             "owner": "biocorecrg",
             "repo": "MOP2",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cdna",
+              "docker",
+              "nanopore",
+              "nextflow",
+              "pipeline",
+              "rna",
+              "rna-seq",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -496,12 +877,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository has been archived, currently maintained version is at https://github.com/iii-companion/companion",
+            "homepage": "http://companion.sanger.ac.uk",
             "id": 30362138,
             "language": "Lua",
+            "license": "ISC",
             "last_commit": "2021-03-22T15:34:47Z",
+            "open_issues": 27,
             "owner": "sanger-pathogens",
             "repo": "companion",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "annotation",
+              "bioinformatics",
+              "genome",
+              "genomics",
+              "lua",
+              "nextflow",
+              "parasites",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -512,12 +907,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional annotation pipeline for proteins from non-model organisms implemented in Nextflow",
+            "homepage": null,
             "id": 209515370,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-28T14:49:32Z",
+            "open_issues": 2,
             "owner": "guigolab",
             "repo": "FA-nf",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "bioinformatics",
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -528,12 +932,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA mapping pipeline",
+            "homepage": null,
             "id": 9980858,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2018-06-03T11:42:05Z",
+            "open_issues": 2,
             "owner": "cbcrg",
             "repo": "piper-nf",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -544,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H3ABioNet 16S rDNA diverstity analysis package",
+            "homepage": "https://h3abionet.github.io/h3abionet16S/",
             "id": 66277343,
             "language": "Common Workflow Language",
+            "license": "MIT",
             "last_commit": "2019-05-20T08:48:00Z",
+            "open_issues": 2,
             "owner": "h3abionet",
             "repo": "h3abionet16S",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -560,12 +977,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automated ChIP-seq pipeline using Nextfow",
+            "homepage": null,
             "id": 50174397,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2022-10-06T13:03:53Z",
+            "open_issues": 0,
             "owner": "guigolab",
             "repo": "chip-nf",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "chip-seq",
+              "crg",
+              "guigo",
+              "guigolab-nf",
+              "nextflow",
+              "ngs",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -576,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 323397875,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2025-04-02T19:15:59Z",
+            "open_issues": 0,
             "owner": "JaneliaSciComp",
             "repo": "nextflow-spark",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -592,12 +1027,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Assembly and intrahost / low-frequency variant calling for viral samples",
+            "homepage": "https://nf-co.re/vipr",
             "id": 133479899,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2020-02-12T16:01:21Z",
+            "open_issues": 18,
             "owner": "nf-core",
             "repo": "vipr",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "genome-assembly",
+              "metagenomics",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "variant-calling",
+              "viral",
+              "viral-genomics",
+              "viral-metagenomics",
+              "viral-ngs",
+              "virus",
+              "viruses",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -608,12 +1062,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ATAC-seq pipeline wrapped in NextFlow that can be run by Jupyter",
+            "homepage": null,
             "id": 138172741,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-01-18T21:43:27Z",
+            "open_issues": 2,
             "owner": "NCBI-Hackathons",
             "repo": "ATACFlow",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "atac-seq",
+              "beta-release",
+              "jupyter-notebook",
+              "ncbi",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -624,12 +1089,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow workflow for automatic repeat detection, classification and masking",
+            "homepage": null,
             "id": 99763100,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2018-02-19T00:31:29Z",
+            "open_issues": 4,
             "owner": "robsyme",
             "repo": "nf-repeatmasking",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bioinformatics",
+              "genomics",
+              "nextflow",
+              "transposable-elements"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -640,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow implementation of the smoove workflow and other tools for SV calling and QC",
+            "homepage": null,
             "id": 157909823,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-12T16:59:33Z",
+            "open_issues": 1,
             "owner": "brwnj",
             "repo": "smoove-nf",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -656,12 +1136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nascent Transcription Processing Pipeline",
+            "homepage": null,
             "id": 159453415,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-04-06T04:25:44Z",
+            "open_issues": 1,
             "owner": "Dowell-Lab",
             "repo": "Nascent-Flow",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -672,12 +1157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproducible Workflows, curated at the Fred Hutch",
+            "homepage": null,
             "id": 161704567,
             "language": "WDL",
+            "license": null,
             "last_commit": "2026-01-21T16:03:49Z",
+            "open_issues": 0,
             "owner": "FredHutch",
             "repo": "reproducible-workflows",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -688,12 +1178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joint calling of gVCF, following GATK4 Best Practices",
+            "homepage": null,
             "id": 137067241,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-03T07:15:44Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "gatk4-GenotypeGVCFs-nf",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -704,12 +1199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Consensus assembly and variant calling workflow.",
+            "homepage": null,
             "id": 28057906,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2015-05-26T16:45:44Z",
+            "open_issues": 3,
             "owner": "nmdp-bioinformatics",
             "repo": "flow",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -720,12 +1220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allele Specific RNAseq",
+            "homepage": null,
             "id": 238708153,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2025-05-26T08:56:36Z",
+            "open_issues": 2,
             "owner": "biocorecrg",
             "repo": "allele_specific_RNAseq",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -736,12 +1241,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrative Pipeline for Splicing Analyses (IPSA) in Nextflow",
+            "homepage": null,
             "id": 87790354,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-19T15:05:13Z",
+            "open_issues": 3,
             "owner": "guigolab",
             "repo": "ipsa-nf",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "bioinformatics",
+              "crg",
+              "genomics",
+              "guigo",
+              "nextflow",
+              "ngs",
+              "pipeline",
+              "rna-seq",
+              "splice-junctions",
+              "splicing-analyses",
+              "splicing-event",
+              "splicing-quantification"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -752,12 +1275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GATK4 HaplotypeCaller step, in gVCF mode, first step for subsequent whole cohort Joint Genotyping.",
+            "homepage": null,
             "id": 135589991,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2019-12-19T07:38:47Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "gatk4-HaplotypeCaller-nf",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -768,12 +1296,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GWA mapping with C. elegans",
+            "homepage": null,
             "id": 151649674,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-06-03T17:33:16Z",
+            "open_issues": 7,
             "owner": "AndersenLab",
             "repo": "cegwas2-nf",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -784,12 +1319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline for processing RNA-seq data",
+            "homepage": null,
             "id": 177179477,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-02-19T23:05:45Z",
+            "open_issues": 0,
             "owner": "Dowell-Lab",
             "repo": "RNAseq-Flow",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -800,12 +1340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single cell transcriptome analysis pipeline based on DropEst ",
+            "homepage": null,
             "id": 122631917,
             "language": "Nextflow",
+            "license": "MPL-2.0",
             "last_commit": "2019-12-12T15:04:47Z",
+            "open_issues": 5,
             "owner": "biocorecrg",
             "repo": "indrop",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -816,12 +1361,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reliability measure of inferred phylogenetic trees",
+            "homepage": null,
             "id": 57054562,
             "language": "Perl",
+            "license": null,
             "last_commit": "2018-06-03T11:37:28Z",
+            "open_issues": 3,
             "owner": "cbcrg",
             "repo": "unistrap",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -832,12 +1384,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pipeline for assembling and annotation of vectors",
+            "homepage": null,
             "id": 144697659,
             "language": "Nextflow",
+            "license": "MPL-2.0",
             "last_commit": "2021-08-19T10:12:55Z",
+            "open_issues": 2,
             "owner": "biocorecrg",
             "repo": "vectorQC",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "amplicons",
+              "bioinformatics-pipeline",
+              "dnaconstruct",
+              "dnavectors",
+              "quality-control"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -848,12 +1411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline for ChIP-seq analysis.",
+            "homepage": null,
             "id": 177208059,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-07T20:47:38Z",
+            "open_issues": 0,
             "owner": "Dowell-Lab",
             "repo": "ChIP-Flow",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -864,12 +1432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 37199412,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-24T08:41:40Z",
+            "open_issues": 23,
             "owner": "metagenomics",
             "repo": "MeRaGENE",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -880,12 +1453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional annotation pipeline for proteins from non-model organisms implemented in Nextflow ",
+            "homepage": null,
             "id": 97622975,
             "language": "Perl",
+            "license": null,
             "last_commit": "2018-08-26T16:53:46Z",
+            "open_issues": 0,
             "owner": "anvlasova",
             "repo": "FA-nf",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -896,12 +1474,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Biocore's de novo transcriptome assembly workflow based on Nextflow",
+            "homepage": null,
             "id": 171497634,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2023-10-05T09:55:00Z",
+            "open_issues": 1,
             "owner": "biocorecrg",
             "repo": "transcriptome_assembly",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "denovo-assembly",
+              "transcriptome-assembly"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -912,12 +1498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ancient DNA nextflow analysis pipeline",
+            "homepage": null,
             "id": 148783346,
             "language": "Nextflow",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-14T12:22:19Z",
+            "open_issues": 0,
             "owner": "crickbabs",
             "repo": "BABS-aDNASeq",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -928,12 +1519,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nextflow pipeline to run featureCounts on RNAseq BAM files on ICGC in AWS/AWS Batch",
+            "homepage": null,
             "id": 142166753,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2018-08-14T11:39:11Z",
+            "open_issues": 0,
             "owner": "qbic-pipelines",
             "repo": "icgc-featurecounts",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "best-practice",
+              "docker",
+              "genomics",
+              "icgc",
+              "nextflow",
+              "reproducible",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -944,12 +1548,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process CRISPR and shRNA functional genetic screening data",
+            "homepage": null,
             "id": 130660859,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-03-30T14:08:24Z",
+            "open_issues": 1,
             "owner": "ZuberLab",
             "repo": "crispr-process-nf",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bioinformatics",
+              "crispr-cas9",
+              "nextflow",
+              "shrna",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -960,12 +1575,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK (deprecated)",
+            "homepage": null,
             "id": 105032811,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2018-04-23T08:08:54Z",
+            "open_issues": 0,
             "owner": "ZuberLab",
             "repo": "mageck-nf",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bioinformatics-pipeline",
+              "crispr-analysis",
+              "docker",
+              "mageck",
+              "nextflow",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -976,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 137119457,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2019-05-28T23:32:17Z",
+            "open_issues": 0,
             "owner": "ncsa",
             "repo": "GenomicsCortextVarNextflow",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -992,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ICGC-ARGO Sanger WGS Somatic Variant Calling Workflow",
+            "homepage": "https://github.com/icgc-argo/sanger-wgs-variant-calling",
             "id": 399947452,
             "language": "Nextflow",
+            "license": "AGPL-3.0",
             "last_commit": "2021-08-25T21:06:15Z",
+            "open_issues": 0,
             "owner": "icgc-argo",
             "repo": "sanger-wgs-variant-calling",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -1014,12 +1651,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assembly and intrahost/low-frequency variant calling for viral samples",
+            "homepage": "https://nf-co.re/viralrecon",
             "id": 251281432,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:40:30Z",
+            "open_issues": 61,
             "owner": "nf-core",
             "repo": "viralrecon",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "amplicon",
+              "artic",
+              "assembly",
+              "covid-19",
+              "covid19",
+              "illumina",
+              "long-read-sequencing",
+              "metagenomics",
+              "nanopore",
+              "nextflow",
+              "nf-core",
+              "ont",
+              "oxford-nanopore",
+              "pipeline",
+              "sars-cov-2",
+              "variant-calling",
+              "viral",
+              "virus",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1030,12 +1692,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Nextflow pipeline for analysis of direct RNA Nanopore reads",
+            "homepage": "https://biocorecrg.github.io/master_of_pores/MOP4_1",
             "id": 214224803,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-06-15T16:32:18Z",
+            "open_issues": 7,
             "owner": "biocorecrg",
             "repo": "master_of_pores",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "docker",
+              "nanopore-analysis-pipeline",
+              "nanopore-sequencing",
+              "nextflow",
+              "nextflow-pipeline",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1046,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools (https://github.com/artic-network/fieldbioinformatics), with a focus on ncov2019 ",
+            "homepage": null,
             "id": 246376094,
             "language": "Nextflow",
+            "license": "AGPL-3.0",
             "last_commit": "2023-11-08T09:21:28Z",
+            "open_issues": 36,
             "owner": "connor-lab",
             "repo": "ncov2019-artic-nf",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1062,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation for analyzing SARS-Cov2 samples.",
+            "homepage": null,
             "id": 246550202,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-04T10:35:14Z",
+            "open_issues": 0,
             "owner": "BU-ISCIII",
             "repo": "SARS-Cov2_analysis",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1078,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.",
+            "homepage": null,
             "id": 212849477,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-19T02:31:54Z",
+            "open_issues": 0,
             "owner": "jnoms",
             "repo": "virID",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1094,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) sequences and features",
+            "homepage": null,
             "id": 251503747,
             "language": "Nextflow",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-21T16:24:46Z",
+            "open_issues": 0,
             "owner": "heuermh",
             "repo": "sars-cov-2",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -1116,12 +1810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GWAS Pipeline for H3Africa",
+            "homepage": null,
             "id": 66284716,
             "language": "Nextflow",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-12T13:41:28Z",
+            "open_issues": 11,
             "owner": "h3abionet",
             "repo": "h3agwas",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1132,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🐦🔥PHoeNIx: a platform agnostic pipeline for healthcare-associated and antimicrobial resistant pathogens",
+            "homepage": "https://www.cdc.gov/ncezid/divisions-offices/about-dhqp.html",
             "id": 490844937,
             "language": "Python",
-            "last_commit": "2026-08-28T07:20:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:31:29Z",
+            "open_issues": 11,
             "owner": "CDCgov",
             "repo": "phoenix",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1148,12 +1852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MycoSNP: Whole Genome Sequencing Analysis of Fungal Isolates",
+            "homepage": null,
             "id": 463211522,
             "language": "Nextflow",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T09:13:57Z",
+            "open_issues": 9,
             "owner": "CDCgov",
             "repo": "mycosnp-nf",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1164,12 +1873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "De novo Extraction of Strains from MetAgeNomes",
+            "homepage": null,
             "id": 38045267,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-17T14:27:24Z",
+            "open_issues": 27,
             "owner": "chrisquince",
             "repo": "DESMAN",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1180,12 +1894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel management, annotation, and machine learning framework for analyzing cancer mutations ",
+            "homepage": null,
             "id": 97653665,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-04T15:16:52Z",
+            "open_issues": 4,
             "owner": "Wittelab",
             "repo": "orchid",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "bioinformatics",
+              "cancer-genomics",
+              "machine-learning",
+              "variant-annotations"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1196,12 +1920,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Genotype Imputation Pipeline for H3Africa",
+            "homepage": null,
             "id": 66281700,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2024-11-05T12:20:17Z",
+            "open_issues": 5,
             "owner": "h3abionet",
             "repo": "chipimputation",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "bioinformatics-pipeline",
+              "imputation",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1212,12 +1945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflows I find helpful for fungal genome annotation",
+            "homepage": null,
             "id": 24693573,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2023-06-30T05:37:32Z",
+            "open_issues": 3,
             "owner": "robsyme",
             "repo": "nextflow-annotate",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1228,12 +1966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Whole Genome Sequenceing Structural Variation Pipelines",
+            "homepage": null,
             "id": 60093354,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-04T09:45:04Z",
+            "open_issues": 15,
             "owner": "NBISweden",
             "repo": "wgs-structvar",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1244,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nextflow version of the Wochenende reference metagenome binning and visualization pipeline",
+            "homepage": null,
             "id": 495350834,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-04T08:33:27Z",
+            "open_issues": 16,
             "owner": "MHH-RCUG",
             "repo": "nf_wochenende",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1260,12 +2008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to make HLA typing from OxfordNanopore reads (MinION platform) ",
+            "homepage": null,
             "id": 60263791,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-20T13:17:17Z",
+            "open_issues": 1,
             "owner": "NationalGenomicsInfrastructure",
             "repo": "icing",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1276,12 +2029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parametric sweep of simulated microbial communities and metagenomic sequencing.",
+            "homepage": null,
             "id": 58171747,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-15T06:28:16Z",
+            "open_issues": 23,
             "owner": "cerebis",
             "repo": "meta-sweeper",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1292,12 +2050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nextflow lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc",
+            "homepage": null,
             "id": 53415340,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2018-04-02T17:39:19Z",
+            "open_issues": 3,
             "owner": "evanfloden",
             "repo": "lncRNA-Annotation-nf",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1308,12 +2071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adapted from the GATK best practice guide to preprocess whole exome sequencing (WES) data",
+            "homepage": null,
             "id": 80036329,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-04T02:35:00Z",
+            "open_issues": 0,
             "owner": "joshua-d-campbell",
             "repo": "nf-GATK_Exome_Preprocess",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1324,12 +2092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nextflow implementation of the Tuxedo Suite of Tools: HISAT, StringTie & Ballgown",
+            "homepage": null,
             "id": 69949705,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2018-04-02T18:00:39Z",
+            "open_issues": 3,
             "owner": "evanfloden",
             "repo": "tuxedo-nf",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1340,12 +2113,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutect pipeline with Nextflow",
+            "homepage": null,
             "id": 53573670,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-22T07:46:29Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "mutect-nf",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "mutect",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1356,12 +2137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow in bioinformatics",
+            "homepage": null,
             "id": 61765462,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2019-01-16T07:37:26Z",
+            "open_issues": 0,
             "owner": "hmkim",
             "repo": "workflow",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1372,12 +2158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our NGS Pipeline using Nextflow",
+            "homepage": null,
             "id": 27771459,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2014-12-09T14:57:49Z",
+            "open_issues": 0,
             "owner": "charite",
             "repo": "ngspipeline",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1388,12 +2179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using Alignment Uncertainty from Many Multiple Sequence Alignments to Create Consensus Trees",
+            "homepage": null,
             "id": 57042719,
             "language": "Perl",
+            "license": null,
             "last_commit": "2018-04-02T17:50:05Z",
+            "open_issues": 0,
             "owner": "evanfloden",
             "repo": "concTree",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1404,12 +2200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data",
+            "homepage": null,
             "id": 57216591,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2018-08-10T08:40:22Z",
+            "open_issues": 0,
             "owner": "evanfloden",
             "repo": "vast-tools-nf",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1420,12 +2221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow-based pipelines for typical NGS processing tasks",
+            "homepage": null,
             "id": 32928200,
             "language": "Groovy",
+            "license": "BSD-3-Clause",
             "last_commit": "2015-03-26T09:04:08Z",
+            "open_issues": 0,
             "owner": "holtgrewe",
             "repo": "ngs_pipelines",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1436,12 +2242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 73915148,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2019-03-05T05:44:47Z",
+            "open_issues": 0,
             "owner": "pbelmann",
             "repo": "sra-download",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1452,12 +2263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bioinformatic variant calling pipeline",
+            "homepage": null,
             "id": 66799341,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2016-09-08T10:19:15Z",
+            "open_issues": 3,
             "owner": "PlantandFoodResearch",
             "repo": "VariantAnalysis",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1468,12 +2284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SARS-CoV-2 bioinformatics pipeline for CLIA validation using Dr. Erin Young's Cecret StaphB pipeline as a base",
+            "homepage": null,
             "id": 429477950,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2022-01-18T15:19:08Z",
+            "open_issues": 1,
             "owner": "CDCgov",
             "repo": "SC2CLIA",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1484,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nextflow pipeline for transcriptome quantificaton using STAR and featurecounts",
+            "homepage": null,
             "id": 39405888,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-07-23T04:51:52Z",
+            "open_issues": 0,
             "owner": "AveraSD",
             "repo": "nextflow-rnastar",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1500,12 +2326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using uncertainty in multiple sequence alignments for phylogenetic trees and bootstrap support values",
+            "homepage": null,
             "id": 63858666,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2018-04-02T17:39:05Z",
+            "open_issues": 0,
             "owner": "evanfloden",
             "repo": "paraMSA",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1516,12 +2347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA-Seq pipeline with nextflow and docker",
+            "homepage": null,
             "id": 56405760,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2019-08-02T09:30:55Z",
+            "open_issues": 0,
             "owner": "fredericlemoine",
             "repo": "rna-pipeline",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1532,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline for generate GVCF from BAM with GenomeAnalysisTK with step of realignment",
+            "homepage": null,
             "id": 53955788,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2016-11-22T15:38:39Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "GVCF_pipeline-nf",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1548,12 +2389,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Differential gene, transcript, exon, and splice junction testing framework. (pre-alpha)",
+            "homepage": null,
             "id": 55162568,
             "language": "R",
+            "license": null,
             "last_commit": "2020-06-17T18:43:56Z",
+            "open_issues": 0,
             "owner": "jdidion",
             "repo": "rna-quick",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1564,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68005480,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-05-17T14:32:12Z",
+            "open_issues": 0,
             "owner": "abreschi",
             "repo": "ShortRNA-nf",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1580,12 +2431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow Pipelines for analysis of NGS data from the LGHM bioinformatics lab",
+            "homepage": null,
             "id": 37084662,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-06-18T16:38:23Z",
+            "open_issues": 0,
             "owner": "andremrsantos",
             "repo": "next-pipes-lghm",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1596,12 +2452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 39223385,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-07-22T20:55:49Z",
+            "open_issues": 0,
             "owner": "AveraSD",
             "repo": "nextflow-kallisto",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1612,12 +2473,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 10937598,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-02-08T15:04:46Z",
+            "open_issues": 0,
             "owner": "cbcrg",
             "repo": "benchfam",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1628,12 +2497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline configuration for kallisto",
+            "homepage": null,
             "id": 41800285,
             "language": null,
+            "license": null,
             "last_commit": "2015-12-17T12:22:06Z",
+            "open_issues": 0,
             "owner": "InSilicoDB",
             "repo": "pipeline-kallisto",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1644,12 +2518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nextflow implementation of INNUENDO quality control of reads, de novo assembly and contigs quality assessment, and possible contamination search",
+            "homepage": null,
             "id": 104775578,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-02-04T00:15:47Z",
+            "open_issues": 2,
             "owner": "ODiogoSilva",
             "repo": "innuca-nf",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1660,12 +2539,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another Grape RNA-Seq analyses pipeline",
+            "homepage": null,
             "id": 10996757,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2018-06-03T11:06:36Z",
+            "open_issues": 0,
             "owner": "cbcrg",
             "repo": "grape-nf",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "nextflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1676,12 +2563,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A collection of nextflow pipelines",
+            "homepage": null,
             "id": 45903019,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-03T08:44:06Z",
+            "open_issues": 0,
             "owner": "HadrienG",
             "repo": "pipelines",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "bioinformatics",
+              "netxflow",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1692,12 +2588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nextflow for gtool (http://www.well.ox.ac.uk/~cfreeman/software/gwas/gtool.html)",
+            "homepage": null,
             "id": 39528977,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-07-22T22:27:09Z",
+            "open_issues": 0,
             "owner": "meissnert",
             "repo": "nextflow-gtool",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1708,12 +2609,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Validation workflow.",
+            "homepage": null,
             "id": 36526754,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2015-07-13T16:45:46Z",
+            "open_issues": 2,
             "owner": "nmdp-bioinformatics",
             "repo": "flow-validation",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1724,12 +2630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Versioned, shareable and replicable workflows for proteogenomics.",
+            "homepage": null,
             "id": 27136597,
             "language": null,
+            "license": null,
             "last_commit": "2014-12-03T20:01:18Z",
+            "open_issues": 0,
             "owner": "robsyme",
             "repo": "workflows-proteogenomics",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1740,12 +2651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nextflow data pipeline for Ion Torrent data",
+            "homepage": null,
             "id": 31309536,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-03-24T15:37:22Z",
+            "open_issues": 0,
             "owner": "skner",
             "repo": "iasi-pipe",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1756,12 +2672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bam realignment with samtools, bwa and sambamba",
+            "homepage": null,
             "id": 54107259,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2016-03-23T15:44:32Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "bam_realignment-nf",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1772,12 +2693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline to compute average metrics from reads that overlap a given set of positions",
+            "homepage": null,
             "id": 76868753,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2017-03-07T13:30:21Z",
+            "open_issues": 1,
             "owner": "IARCbioinfo",
             "repo": "bametrics-nf",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1788,12 +2714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow pipeline for coverage computation with samtools mpileup (bed parallelization) ",
+            "homepage": null,
             "id": 74483459,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-24T07:27:47Z",
+            "open_issues": 0,
             "owner": "IARCbioinfo",
             "repo": "mpileup-nf",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1804,12 +2735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow script to create the imputation",
+            "homepage": null,
             "id": 56070799,
             "language": null,
+            "license": null,
             "last_commit": "2016-04-14T13:53:40Z",
+            "open_issues": 0,
             "owner": "InSilicoDB",
             "repo": "snp-imputation-nf",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1820,12 +2756,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "nextflow pipeline for extracting, blasting and validating all consensus sequences found in an HML file.",
+            "homepage": null,
             "id": 54127344,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2016-04-04T17:29:48Z",
+            "open_issues": 0,
             "owner": "nmdp-bioinformatics",
             "repo": "flow-blast-hml",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -1842,12 +2783,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of Nextflow implementation patterns",
+            "homepage": "http://nextflow-io.github.io/patterns/",
             "id": 30353639,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2023-11-21T15:44:47Z",
+            "open_issues": 10,
             "owner": "nextflow-io",
             "repo": "patterns",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1858,12 +2806,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example Nextflow pipelines and programming techniques",
+            "homepage": null,
             "id": 128070143,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-20T14:19:34Z",
+            "open_issues": 0,
             "owner": "stevekm",
             "repo": "nextflow-demos",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1874,12 +2829,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Nextflow basic tutorial for newbie users ",
+            "homepage": null,
             "id": 100017737,
             "language": "Nextflow",
+            "license": null,
             "last_commit": "2018-06-17T14:38:59Z",
+            "open_issues": 0,
             "owner": "nextflow-io",
             "repo": "nf-hack17-tutorial",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "bioinformatics",
+              "docker",
+              "genomics",
+              "nextflow",
+              "singularity",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1890,12 +2857,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Nextflow + Docker tutorial material",
+            "homepage": null,
             "id": 71648453,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-24T11:23:16Z",
+            "open_issues": 0,
             "owner": "nextflow-io",
             "repo": "crg-course-nov16",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1906,12 +2880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 75569647,
             "language": "Nextflow",
+            "license": "LGPL-2.1",
             "last_commit": "2023-05-29T14:04:34Z",
+            "open_issues": 0,
             "owner": "shaze",
             "repo": "nextflow-course",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1922,12 +2901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A short list of Nextflow-related branch-lessons for beginners",
+            "homepage": null,
             "id": 940961388,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-07T07:05:31Z",
+            "open_issues": 0,
             "owner": "vagkaratzas",
             "repo": "nextflow-beginners-workshop",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -1944,12 +2928,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to host tool-specific module files for the Nextflow DSL2 community!",
+            "homepage": "https://nf-co.re/modules",
             "id": 198982083,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:42:43Z",
+            "open_issues": 489,
             "owner": "nf-core",
             "repo": "modules",
-            "stars": 425
+            "stars": 426,
+            "topics": [
+              "dsl2",
+              "modules",
+              "nextflow",
+              "nf-core",
+              "nf-test",
+              "pipelines",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1960,12 +2957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UMCU Genetics Nextflow modules",
+            "homepage": null,
             "id": 200849540,
             "language": "Nextflow",
+            "license": "MIT",
             "last_commit": "2024-10-25T06:28:21Z",
+            "open_issues": 2,
             "owner": "UMCUGenetics",
             "repo": "NextflowModules",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -1976,12 +2978,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of modules and sub-workflows for Nextflow",
+            "homepage": null,
             "id": 125847619,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-13T09:52:21Z",
+            "open_issues": 7,
             "owner": "biocorecrg",
             "repo": "BioNextflow",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "bioinformatics",
+              "library",
+              "nextflow",
+              "pipeline",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -1998,12 +3011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow plugin for VIM",
+            "homepage": null,
             "id": 162446231,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2023-05-27T09:19:40Z",
+            "open_issues": 7,
             "owner": "LukeGoodsell",
             "repo": "nextflow-vim",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2014,12 +3032,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow language support for Visual Studio Editor",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow",
             "id": 119595532,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T16:23:53Z",
+            "open_issues": 19,
             "owner": "nextflow-io",
             "repo": "vscode-language-nextflow",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "nextflow",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2030,12 +3056,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs major mode for Nextflow",
+            "homepage": null,
             "id": 184515445,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T23:32:10Z",
+            "open_issues": 7,
             "owner": "edmundmiller",
             "repo": "nextflow-mode",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "emacs",
+              "emacs-mode",
+              "emacs-package",
+              "hacktoberfest",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2046,12 +3083,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nextflow workflow syntax highlighting and snippets for Sublime Text 4",
+            "homepage": null,
             "id": 178066360,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T02:52:46Z",
+            "open_issues": 5,
             "owner": "peterk87",
             "repo": "sublime-nextflow",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "editor-plugin",
+              "nextflow",
+              "nextflow-dsl2",
+              "nextflow-workflow",
+              "snippets",
+              "sublime-text",
+              "sublime-text-3",
+              "sublime-text-4",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -2068,12 +3120,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package with helper tools for the nf-core community.",
+            "homepage": "https://nf-co.re",
             "id": 121360155,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:07:16Z",
+            "open_issues": 426,
             "owner": "nf-core",
             "repo": "tools",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "bioinformatics",
+              "linter",
+              "linting",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2084,12 +3150,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic Packaging and Distribution of Bioinformatics Pipelines",
+            "homepage": null,
             "id": 103176143,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-29T17:39:31Z",
+            "open_issues": 2,
             "owner": "NCBI-Hackathons",
             "repo": "SPeW",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "docker",
+              "nextflow",
+              "pipeline",
+              "rna-seq-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2100,12 +3176,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Nextflow hackathon 2017 projects ",
+            "homepage": null,
             "id": 96760893,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-09-28T15:05:09Z",
+            "open_issues": 11,
             "owner": "nextflow-io",
             "repo": "nf-hack17",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hackathon",
+              "nextflow"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         },
@@ -2116,12 +3200,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XML patch allowing GNU make to output the workflow as XML",
+            "homepage": null,
             "id": 39565169,
             "language": "XSLT",
+            "license": "MIT",
             "last_commit": "2019-09-05T18:45:07Z",
+            "open_issues": 0,
             "owner": "lindenb",
             "repo": "xml-patch-make",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "make",
+              "makefile",
+              "stylesheets",
+              "workflow",
+              "xml",
+              "xslt"
+            ]
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
         }
@@ -2130,15 +3226,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:26.475Z",
+    "last_updated": "2026-08-29T04:39:02.636Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of nextflow based pipelines",
+      "homepage": null,
       "id": 39799927,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-06-23T07:41:58Z",
+      "open_issues": 2,
       "owner": "nextflow-io",
       "repo": "awesome-nextflow",
-      "stars": 632
+      "stars": 632,
+      "topics": [
+        "awesome-list",
+        "nextflow"
+      ]
     },
     "original_repository_sha": "0b9fafbe60d9e0caccca4fa9b74aa94fda6291db",
     "enhanced_repository": "enhansome/enhansome-nextflow",
