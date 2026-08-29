@@ -451,7 +451,7 @@
             "open_issues": 66,
             "owner": "labsyspharm",
             "repo": "mcmicro",
-            "stars": 157,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.475Z"
@@ -2933,7 +2933,7 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:42:43Z",
+            "last_commit": "2026-08-29T06:45:51Z",
             "open_issues": 489,
             "owner": "nf-core",
             "repo": "modules",
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:02.636Z",
+    "last_updated": "2026-08-29T14:41:51.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",

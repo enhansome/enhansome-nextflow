@@ -1,6 +1,6 @@
 # Awesome Nextflow with stars
 
-A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 lists.
+A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 lists.
 
 ## Example pipelines
 
@@ -21,7 +21,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) ⭐ 197 | 🐛 31 | 🌐 Nextflow | 📅 2026-08-18 - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 * [nf-core/rnafusion](https://github.com/nf-core/rnafusion) ⭐ 174 | 🐛 27 | 🌐 Nextflow | 📅 2026-07-24 - RNA sequencing analysis pipeline with curated list of tools for detecting and visualizing fusion genes.
 * [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) ⭐ 165 | 🐛 61 | 🌐 Nextflow | 📅 2026-08-21 - Assembly and intrahost/low-frequency variant calling for viral samples.
-* [labsyspharm/mcmicro](https://github.com/labsyspharm/mcmicro) ⭐ 157 | 🐛 66 | 🌐 Nextflow | 📅 2026-08-03 - End-to-end pipeline for processing multiplexed whole slide imaging and tissue microarrays.
+* [labsyspharm/mcmicro](https://github.com/labsyspharm/mcmicro) ⭐ 156 | 🐛 66 | 🌐 Nextflow | 📅 2026-08-03 - End-to-end pipeline for processing multiplexed whole slide imaging and tissue microarrays.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) ⭐ 137 | 🐛 13 | 🌐 Nextflow | 📅 2022-12-14 - Variant Calling Analysis with RNA-Seq data based on GATK best practices.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/main/paper) ⚠️ Archived - NGS read trimming tool that is specific, sensitive, and speedy.
 * [biocorecrg/master\_of\_pores](https://github.com/biocorecrg/master_of_pores) ⭐ 111 | 🐛 7 | 🌐 Nextflow | 📅 2026-06-15 -  Nextflow pipeline for analysis of Nanopore reads.
@@ -162,7 +162,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Modules collections
 
-* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 426 | 🐛 489 | 🌐 Nextflow | 📅 2026-08-28 - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 426 | 🐛 489 | 🌐 Nextflow | 📅 2026-08-29 - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) ⭐ 30 | 🐛 2 | 🌐 Nextflow | 📅 2024-10-25 - UMCU Genetics Nextflow modules
 * [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) ⭐ 29 | 🐛 7 | 🌐 Nextflow | 📅 2026-02-13 - Repository to host DSL2 based tool-specific sub-workflows
 
