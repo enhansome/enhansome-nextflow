@@ -1,6 +1,6 @@
 # Awesome Nextflow with stars
 
-A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,657 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 lists.
+A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,659 | 🐛 63 | 🌐 Ruby | 📅 2024-06-02 lists.
 
 ## Example pipelines
 
@@ -20,7 +20,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 * [nf-core/eager](https://github.com/nf-core/eager) ⭐ 214 | 🐛 60 | 🌐 Nextflow | 📅 2026-09-04 - A fully reproducible and state of the art ancient DNA analysis pipeline.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) ⭐ 197 | 🐛 32 | 🌐 Nextflow | 📅 2026-09-01 - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 * [nf-core/rnafusion](https://github.com/nf-core/rnafusion) ⭐ 174 | 🐛 27 | 🌐 Nextflow | 📅 2026-07-24 - RNA sequencing analysis pipeline with curated list of tools for detecting and visualizing fusion genes.
-* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) ⭐ 165 | 🐛 64 | 🌐 Nextflow | 📅 2026-09-01 - Assembly and intrahost/low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) ⭐ 165 | 🐛 64 | 🌐 Nextflow | 📅 2026-09-07 - Assembly and intrahost/low-frequency variant calling for viral samples.
 * [labsyspharm/mcmicro](https://github.com/labsyspharm/mcmicro) ⭐ 156 | 🐛 66 | 🌐 Nextflow | 📅 2026-09-04 - End-to-end pipeline for processing multiplexed whole slide imaging and tissue microarrays.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) ⭐ 137 | 🐛 13 | 🌐 Nextflow | 📅 2022-12-14 - Variant Calling Analysis with RNA-Seq data based on GATK best practices.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/main/paper) ⚠️ Archived - NGS read trimming tool that is specific, sensitive, and speedy.
@@ -74,7 +74,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Covid-19 related projects
 
-* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) ⭐ 165 | 🐛 64 | 🌐 Nextflow | 📅 2026-09-01 - Assembly and intrahost/low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) ⭐ 165 | 🐛 64 | 🌐 Nextflow | 📅 2026-09-07 - Assembly and intrahost/low-frequency variant calling for viral samples.
 * [biocorecrg/master\_of\_pores](https://github.com/biocorecrg/master_of_pores) ⭐ 111 | 🐛 7 | 🌐 Nextflow | 📅 2026-06-15 - Nextflow pipeline for analysis of Nanopore data from direct RNA sequencing (see [also](https://biocorecrg.github.io/covid/)).
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) ⭐ 92 | 🐛 36 | 🌐 Nextflow | 📅 2023-11-08 - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
 * [BU-ISCIII/SARS-Cov2\_analysis](https://github.com/BU-ISCIII/SARS-Cov2_analysis) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2020-06-04 - SARS-Cov2 bioinformatics analysis.
@@ -85,7 +85,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 ## Other pipelines
 
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) ⭐ 116 | 🐛 11 | 🌐 Nextflow | 📅 2026-03-12 - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.
-* [CDCgov/PHoeNIx](https://github.com/CDCgov/phoenix) ⭐ 112 | 🐛 13 | 🌐 Python | 📅 2026-09-07 - A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
+* [CDCgov/PHoeNIx](https://github.com/CDCgov/phoenix) ⭐ 112 | 🐛 13 | 🌐 Python | 📅 2026-09-08 - A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
 * [CDCgov/mycosnp-nf](https://github.com/CDCgov/mycosnp-nf) ⭐ 95 | 🐛 9 | 🌐 Nextflow | 📅 2026-07-23 - Portable workflow for performing whole genome sequencing analysis of fungal organisms.
 * [chrisquince/DESMAN](https://github.com/chrisquince/DESMAN) ⭐ 72 | 🐛 27 | 🌐 Python | 📅 2020-06-17 - De novo Extraction of Strains from MetAgeNomes.
 * [wittelab/orchid](https://github.com/Wittelab/orchid) ⭐ 31 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-07-04 - Novel management, annotation, and machine learning framework for analyzing cancer mutations.
@@ -162,7 +162,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Modules collections
 
-* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 428 | 🐛 494 | 🌐 Nextflow | 📅 2026-09-07 - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 428 | 🐛 489 | 🌐 Nextflow | 📅 2026-09-08 - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) ⭐ 30 | 🐛 2 | 🌐 Nextflow | 📅 2024-10-25 - UMCU Genetics Nextflow modules
 * [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) ⭐ 29 | 🐛 7 | 🌐 Nextflow | 📅 2026-02-13 - Repository to host DSL2 based tool-specific sub-workflows
 
@@ -197,4 +197,4 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
