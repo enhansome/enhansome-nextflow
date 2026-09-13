@@ -239,7 +239,7 @@
             "id": 134368131,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:06:12Z",
+            "last_commit": "2026-09-13T13:15:51Z",
             "open_issues": 84,
             "owner": "nf-core",
             "repo": "mag",
@@ -1836,7 +1836,7 @@
             "id": 490844937,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T01:50:26Z",
+            "last_commit": "2026-09-13T01:41:42Z",
             "open_issues": 13,
             "owner": "CDCgov",
             "repo": "phoenix",
@@ -2934,7 +2934,7 @@
             "language": "Nextflow",
             "license": "MIT",
             "last_commit": "2026-09-11T14:20:21Z",
-            "open_issues": 489,
+            "open_issues": 487,
             "owner": "nf-core",
             "repo": "modules",
             "stars": 428,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:09:06.872Z",
+    "last_updated": "2026-09-13T13:53:18.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
