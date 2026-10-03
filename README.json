@@ -142,8 +142,8 @@
             "id": 127293091,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:33:13Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-02T21:35:25Z",
+            "open_issues": 34,
             "owner": "nf-core",
             "repo": "rnaseq",
             "stars": 1378,
@@ -170,8 +170,8 @@
             "id": 184289291,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:42:48Z",
-            "open_issues": 306,
+            "last_commit": "2026-10-02T18:03:13Z",
+            "open_issues": 307,
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 609,
@@ -339,8 +339,8 @@
             "id": 124913037,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:07:38Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-02T23:27:49Z",
+            "open_issues": 34,
             "owner": "nf-core",
             "repo": "methylseq",
             "stars": 199,
@@ -406,7 +406,7 @@
             "id": 251281432,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:03:07Z",
+            "last_commit": "2026-10-02T18:57:34Z",
             "open_issues": 62,
             "owner": "nf-core",
             "repo": "viralrecon",
@@ -1002,7 +1002,7 @@
         {
           "node_type": "item",
           "title": "JaneliaSciComp/nextflow-spark",
-          "description": null,
+          "description": "JaneliaSciComp/nextflow-spark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1656,7 +1656,7 @@
             "id": 251281432,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:03:07Z",
+            "last_commit": "2026-10-02T18:57:34Z",
             "open_issues": 62,
             "owner": "nf-core",
             "repo": "viralrecon",
@@ -2109,7 +2109,7 @@
         {
           "node_type": "item",
           "title": "IARCbioinfo/mutect-nf",
-          "description": null,
+          "description": "IARCbioinfo/mutect-nf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2133,7 +2133,7 @@
         {
           "node_type": "item",
           "title": "hmkim/workflow",
-          "description": null,
+          "description": "hmkim/workflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2154,7 +2154,7 @@
         {
           "node_type": "item",
           "title": "charite/ngspipeline",
-          "description": null,
+          "description": "charite/ngspipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2238,7 +2238,7 @@
         {
           "node_type": "item",
           "title": "pbelmann/sra-download",
-          "description": null,
+          "description": "pbelmann/sra-download",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2301,7 +2301,7 @@
         {
           "node_type": "item",
           "title": "AveraSD/nextflow-rnastar",
-          "description": null,
+          "description": "AveraSD/nextflow-rnastar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2343,7 +2343,7 @@
         {
           "node_type": "item",
           "title": "fredericlemoine/rna-pipeline",
-          "description": null,
+          "description": "fredericlemoine/rna-pipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2364,7 +2364,7 @@
         {
           "node_type": "item",
           "title": "IARCbioinfo/GVCF_pipeline-nf",
-          "description": null,
+          "description": "IARCbioinfo/GVCF_pipeline-nf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2448,7 +2448,7 @@
         {
           "node_type": "item",
           "title": "AveraSD/nextflow-kallisto",
-          "description": null,
+          "description": "AveraSD/nextflow-kallisto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2469,7 +2469,7 @@
         {
           "node_type": "item",
           "title": "cbcrg/benchfam",
-          "description": null,
+          "description": "cbcrg/benchfam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2493,7 +2493,7 @@
         {
           "node_type": "item",
           "title": "InSilicoDB/pipeline-kallisto",
-          "description": null,
+          "description": "InSilicoDB/pipeline-kallisto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2559,7 +2559,7 @@
         {
           "node_type": "item",
           "title": "HadrienG/pipelines",
-          "description": null,
+          "description": "HadrienG/pipelines",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2584,7 +2584,7 @@
         {
           "node_type": "item",
           "title": "meissnert/nextflow-gtool",
-          "description": null,
+          "description": "meissnert/nextflow-gtool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2605,7 +2605,7 @@
         {
           "node_type": "item",
           "title": "nmdp-bioinformatics/flow-validation",
-          "description": null,
+          "description": "nmdp-bioinformatics/flow-validation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2647,7 +2647,7 @@
         {
           "node_type": "item",
           "title": "skner/iasi-pipe",
-          "description": null,
+          "description": "skner/iasi-pipe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2668,7 +2668,7 @@
         {
           "node_type": "item",
           "title": "IARCbioinfo/bam_realignment-nf",
-          "description": null,
+          "description": "IARCbioinfo/bam_realignment-nf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2731,7 +2731,7 @@
         {
           "node_type": "item",
           "title": "InSilicoDB/snp-imputation-nf",
-          "description": null,
+          "description": "InSilicoDB/snp-imputation-nf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2752,7 +2752,7 @@
         {
           "node_type": "item",
           "title": "nmdp-bioinformatics/flow-blast-hml",
-          "description": null,
+          "description": "nmdp-bioinformatics/flow-blast-hml",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2825,7 +2825,7 @@
         {
           "node_type": "item",
           "title": "Nextflow tutorial",
-          "description": null,
+          "description": "nextflow-io/nf-hack17-tutorial",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2853,7 +2853,7 @@
         {
           "node_type": "item",
           "title": "CRG course",
-          "description": null,
+          "description": "nextflow-io/crg-course-nov16",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2876,7 +2876,7 @@
         {
           "node_type": "item",
           "title": "H3ABioNet course",
-          "description": null,
+          "description": "shaze/nextflow-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2897,7 +2897,7 @@
         {
           "node_type": "item",
           "title": "Nextflow Beginners Workshop",
-          "description": null,
+          "description": "vagkaratzas/nextflow-beginners-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2933,8 +2933,8 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:31:16Z",
-            "open_issues": 478,
+            "last_commit": "2026-10-02T19:31:07Z",
+            "open_issues": 476,
             "owner": "nf-core",
             "repo": "modules",
             "stars": 430,
@@ -3007,7 +3007,7 @@
         {
           "node_type": "item",
           "title": "VIM",
-          "description": null,
+          "description": "LukeGoodsell/nextflow-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3028,7 +3028,7 @@
         {
           "node_type": "item",
           "title": "VSCode",
-          "description": null,
+          "description": "nextflow-io/vscode-language-nextflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3052,7 +3052,7 @@
         {
           "node_type": "item",
           "title": "Emacs",
-          "description": null,
+          "description": "edmundmiller/nextflow-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3079,7 +3079,7 @@
         {
           "node_type": "item",
           "title": "Sublime Text",
-          "description": null,
+          "description": "peterk87/sublime-nextflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3126,7 +3126,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T10:37:59Z",
-            "open_issues": 449,
+            "open_issues": 450,
             "owner": "nf-core",
             "repo": "tools",
             "stars": 324,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:58:05.711Z",
+    "last_updated": "2026-10-03T04:58:41.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
