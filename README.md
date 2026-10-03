@@ -1,6 +1,6 @@
 # Awesome Nextflow with stars
 
-A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 lists.
+A curated list of Nextflow pipelines inspired by other [awesome-\*](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 lists.
 
 ## Example pipelines
 
@@ -162,7 +162,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 
 ## Modules collections
 
-* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 430 | 🐛 476 | 🌐 Nextflow | 📅 2026-10-02 - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [nf-core/modules](https://github.com/nf-core/modules/) ⭐ 430 | 🐛 475 | 🌐 Nextflow | 📅 2026-10-03 - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) ⭐ 30 | 🐛 2 | 🌐 Nextflow | 📅 2024-10-25 - UMCU Genetics Nextflow modules
 * [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) ⭐ 29 | 🐛 7 | 🌐 Nextflow | 📅 2026-02-13 - Repository to host DSL2 based tool-specific sub-workflows
 
@@ -181,7 +181,7 @@ A curated list of Nextflow pipelines inspired by other [awesome-\*](https://gith
 ## Syntax highlighting
 
 * [VIM](https://github.com/LukeGoodsell/nextflow-vim) ⭐ 50 | 🐛 7 | 🌐 Vim script | 📅 2023-05-27
-* [VSCode](https://github.com/nextflow-io/vscode-language-nextflow) ⭐ 38 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-18
+* [VSCode](https://github.com/nextflow-io/vscode-language-nextflow) ⭐ 38 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03
 * [Emacs](https://github.com/Emiller88/nextflow-mode) ⭐ 26 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-08-04
 * [Sublime Text](https://github.com/peterk87/sublime-nextflow) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2025-01-08
 * [Atom](https://atom.io/packages/language-nextflow)
