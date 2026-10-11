@@ -146,7 +146,7 @@
             "open_issues": 29,
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "nextflow",
               "nf-core",
@@ -2933,7 +2933,7 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-09T16:50:11Z",
+            "last_commit": "2026-10-11T14:03:48Z",
             "open_issues": 479,
             "owner": "nf-core",
             "repo": "modules",
@@ -3126,7 +3126,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-10T05:00:29Z",
-            "open_issues": 461,
+            "open_issues": 462,
             "owner": "nf-core",
             "repo": "tools",
             "stars": 323,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:34:16.099Z",
+    "last_updated": "2026-10-11T15:57:44.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
