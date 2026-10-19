@@ -146,7 +146,7 @@
             "open_issues": 29,
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1391,
+            "stars": 1393,
             "topics": [
               "nextflow",
               "nf-core",
@@ -170,8 +170,8 @@
             "id": 184289291,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-18T03:50:02Z",
-            "open_issues": 312,
+            "last_commit": "2026-10-19T16:25:50Z",
+            "open_issues": 313,
             "owner": "nf-core",
             "repo": "sarek",
             "stars": 614,
@@ -243,7 +243,7 @@
             "open_issues": 86,
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "annotation",
               "assembly",
@@ -2933,11 +2933,11 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:48:08Z",
-            "open_issues": 491,
+            "last_commit": "2026-10-19T16:02:05Z",
+            "open_issues": 483,
             "owner": "nf-core",
             "repo": "modules",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "dsl2",
               "modules",
@@ -3126,7 +3126,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-16T14:50:17Z",
-            "open_issues": 462,
+            "open_issues": 463,
             "owner": "nf-core",
             "repo": "tools",
             "stars": 328,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:34:25.357Z",
+    "last_updated": "2026-10-19T16:38:03.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
