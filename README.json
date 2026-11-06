@@ -170,11 +170,11 @@
             "id": 184289291,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:53:04Z",
-            "open_issues": 278,
+            "last_commit": "2026-11-06T16:38:08Z",
+            "open_issues": 283,
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "annotation",
               "bioinformatics",
@@ -243,7 +243,7 @@
             "open_issues": 87,
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "annotation",
               "assembly",
@@ -274,8 +274,8 @@
             "id": 130877729,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:04:50Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-06T12:47:41Z",
+            "open_issues": 20,
             "owner": "nf-core",
             "repo": "chipseq",
             "stars": 245,
@@ -305,8 +305,8 @@
             "id": 135918251,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-01T21:22:31Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-06T09:44:15Z",
+            "open_issues": 66,
             "owner": "nf-core",
             "repo": "eager",
             "stars": 214,
@@ -376,7 +376,7 @@
             "language": "Nextflow",
             "license": "MIT",
             "last_commit": "2026-11-02T10:14:40Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "nf-core",
             "repo": "rnafusion",
             "stars": 176,
@@ -631,7 +631,7 @@
             "id": 140573587,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-05T04:23:52Z",
+            "last_commit": "2026-11-06T16:48:21Z",
             "open_issues": 14,
             "owner": "nf-core",
             "repo": "hlatyping",
@@ -1173,27 +1173,6 @@
         },
         {
           "node_type": "item",
-          "title": "IARC/gatk4-GenotypeGVCFs-nf",
-          "description": "Joint calling of gVCF, following GATK4 Best Practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Joint calling of gVCF, following GATK4 Best Practices",
-            "homepage": null,
-            "id": 137067241,
-            "language": "Nextflow",
-            "license": "GPL-3.0",
-            "last_commit": "2019-04-03T07:15:44Z",
-            "open_issues": 0,
-            "owner": "IARCbioinfo",
-            "repo": "gatk4-GenotypeGVCFs-nf",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:59:26.475Z"
-        },
-        {
-          "node_type": "item",
           "title": "nmdp-bioinformatics/flow",
           "description": "Consensus assembly and variant calling workflow.",
           "children": [],
@@ -1229,6 +1208,27 @@
             "open_issues": 2,
             "owner": "biocorecrg",
             "repo": "allele_specific_RNAseq",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:59:26.475Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IARC/gatk4-GenotypeGVCFs-nf",
+          "description": "Joint calling of gVCF, following GATK4 Best Practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Joint calling of gVCF, following GATK4 Best Practices",
+            "homepage": null,
+            "id": 137067241,
+            "language": "Nextflow",
+            "license": "GPL-3.0",
+            "last_commit": "2019-04-03T07:15:44Z",
+            "open_issues": 0,
+            "owner": "IARCbioinfo",
+            "repo": "gatk4-GenotypeGVCFs-nf",
             "stars": 11,
             "topics": []
           },
@@ -2792,7 +2792,7 @@
             "open_issues": 10,
             "owner": "nextflow-io",
             "repo": "patterns",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "nextflow"
             ]
@@ -2933,8 +2933,8 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-05T14:43:01Z",
-            "open_issues": 465,
+            "last_commit": "2026-11-06T14:11:51Z",
+            "open_issues": 464,
             "owner": "nf-core",
             "repo": "modules",
             "stars": 436,
@@ -3125,8 +3125,8 @@
             "id": 121360155,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:08:07Z",
-            "open_issues": 469,
+            "last_commit": "2026-11-06T13:18:30Z",
+            "open_issues": 457,
             "owner": "nf-core",
             "repo": "tools",
             "stars": 330,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:38:53.520Z",
+    "last_updated": "2026-11-06T16:55:52.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
@@ -3238,7 +3238,7 @@
       "open_issues": 2,
       "owner": "nextflow-io",
       "repo": "awesome-nextflow",
-      "stars": 635,
+      "stars": 636,
       "topics": [
         "awesome-list",
         "nextflow"
