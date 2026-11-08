@@ -309,7 +309,7 @@
             "open_issues": 66,
             "owner": "nf-core",
             "repo": "eager",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "adna",
               "ancient-dna-analysis",
@@ -2933,8 +2933,8 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:49:30Z",
-            "open_issues": 464,
+            "last_commit": "2026-11-08T07:31:52Z",
+            "open_issues": 466,
             "owner": "nf-core",
             "repo": "modules",
             "stars": 436,
@@ -3125,8 +3125,8 @@
             "id": 121360155,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:19:51Z",
-            "open_issues": 456,
+            "last_commit": "2026-11-08T01:03:16Z",
+            "open_issues": 458,
             "owner": "nf-core",
             "repo": "tools",
             "stars": 330,
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:55:07.279Z",
+    "last_updated": "2026-11-08T16:19:42.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
