@@ -142,11 +142,11 @@
             "id": 127293091,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:10:22Z",
+            "last_commit": "2026-11-09T18:53:45Z",
             "open_issues": 25,
             "owner": "nf-core",
             "repo": "rnaseq",
-            "stars": 1403,
+            "stars": 1406,
             "topics": [
               "nextflow",
               "nf-core",
@@ -170,11 +170,11 @@
             "id": 184289291,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-07T12:20:09Z",
-            "open_issues": 288,
+            "last_commit": "2026-11-09T16:46:08Z",
+            "open_issues": 280,
             "owner": "nf-core",
             "repo": "sarek",
-            "stars": 617,
+            "stars": 619,
             "topics": [
               "annotation",
               "bioinformatics",
@@ -216,7 +216,7 @@
             "open_issues": 70,
             "owner": "bactopia",
             "repo": "bactopia",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "bacterial-genomes",
               "bioconda",
@@ -243,7 +243,7 @@
             "open_issues": 87,
             "owner": "nf-core",
             "repo": "mag",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "annotation",
               "assembly",
@@ -375,8 +375,8 @@
             "id": 151721952,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:39:35Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-09T19:56:04Z",
+            "open_issues": 22,
             "owner": "nf-core",
             "repo": "rnafusion",
             "stars": 176,
@@ -406,7 +406,7 @@
             "id": 251281432,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-05T12:46:48Z",
+            "last_commit": "2026-11-08T20:08:49Z",
             "open_issues": 65,
             "owner": "nf-core",
             "repo": "viralrecon",
@@ -1656,7 +1656,7 @@
             "id": 251281432,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-05T12:46:48Z",
+            "last_commit": "2026-11-08T20:08:49Z",
             "open_issues": 65,
             "owner": "nf-core",
             "repo": "viralrecon",
@@ -2792,7 +2792,7 @@
             "open_issues": 10,
             "owner": "nextflow-io",
             "repo": "patterns",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "nextflow"
             ]
@@ -2933,8 +2933,8 @@
             "id": 198982083,
             "language": "Nextflow",
             "license": "MIT",
-            "last_commit": "2026-11-08T07:31:52Z",
-            "open_issues": 466,
+            "last_commit": "2026-11-09T18:58:43Z",
+            "open_issues": 454,
             "owner": "nf-core",
             "repo": "modules",
             "stars": 436,
@@ -3125,11 +3125,11 @@
             "id": 121360155,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:03:16Z",
+            "last_commit": "2026-11-09T16:07:15Z",
             "open_issues": 458,
             "owner": "nf-core",
             "repo": "tools",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "bioinformatics",
               "linter",
@@ -3226,7 +3226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:19:42.794Z",
+    "last_updated": "2026-11-09T20:06:07.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of nextflow based pipelines",
@@ -3238,7 +3238,7 @@
       "open_issues": 2,
       "owner": "nextflow-io",
       "repo": "awesome-nextflow",
-      "stars": 636,
+      "stars": 637,
       "topics": [
         "awesome-list",
         "nextflow"
